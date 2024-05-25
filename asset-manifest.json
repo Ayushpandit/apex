@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.436bd148.css",
-    "main.js": "/static/js/main.f2694894.js",
-    "static/js/453.1f7a4fbc.chunk.js": "/static/js/453.1f7a4fbc.chunk.js",
-    "index.html": "/index.html",
-    "main.436bd148.css.map": "/static/css/main.436bd148.css.map",
-    "main.f2694894.js.map": "/static/js/main.f2694894.js.map",
-    "453.1f7a4fbc.chunk.js.map": "/static/js/453.1f7a4fbc.chunk.js.map"
+    "main.css": "/Ayushpandit/apex.git/static/css/main.234d88ae.css",
+    "main.js": "/Ayushpandit/apex.git/static/js/main.00df95c2.js",
+    "static/js/453.1f7a4fbc.chunk.js": "/Ayushpandit/apex.git/static/js/453.1f7a4fbc.chunk.js",
+    "index.html": "/Ayushpandit/apex.git/index.html",
+    "main.234d88ae.css.map": "/Ayushpandit/apex.git/static/css/main.234d88ae.css.map",
+    "main.00df95c2.js.map": "/Ayushpandit/apex.git/static/js/main.00df95c2.js.map",
+    "453.1f7a4fbc.chunk.js.map": "/Ayushpandit/apex.git/static/js/453.1f7a4fbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.436bd148.css",
-    "static/js/main.f2694894.js"
+    "static/css/main.234d88ae.css",
+    "static/js/main.00df95c2.js"
   ]
 }
