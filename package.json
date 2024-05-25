@@ -2,20 +2,40 @@
   "name": "rapid_template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Ayushpandit/apex.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "dns": "^0.2.2",
+    "dsn": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "nodemailer": "^6.9.13",
+    "os": "^0.1.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.0",
+    "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "stream": "^0.0.2",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.3",
+    "util": "^0.12.5",
+    "web-vitals": "^2.1.4",
+    "zlib": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "pd": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +54,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
